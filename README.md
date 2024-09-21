@@ -26,7 +26,7 @@ To use the code, clone the repository and install the required dependencies. You
 ```bash
 git clone https://github.com/yourusername/modis-viirs-fire-visualization.git
 pip install -r requirements.txt
-
+```
 
 
 Ensure that you have Python 3.8+ and Jupyter installed.
